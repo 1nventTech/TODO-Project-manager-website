@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'CozetteVector';
+    src: url('cozettevector-webfont.woff2') format('woff2'),
+         url('cozettevector-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body {
+    overflow-x: hidden;
+    background-color: #232323;    
+}
+h1 {
+    margin-top: 10px;
+    width: 98%;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #333333;
+    box-shadow: 1px 2px 5px black;
+    font-size: 21px;
+    font-family: CozetteVector;
+}
+
+h1:first-child {
+    margin-top: 0;
+}
+
+p, svg {
+    cursor: pointer;
+    width: 100px;
+    border-radius: 15px;padding: 10px;text-align:center;
+    font-family: CozetteVector;
+}
