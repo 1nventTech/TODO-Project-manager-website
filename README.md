@@ -3,7 +3,7 @@ simple project manager `website`, which allows you to check status of activity t
 
 
 ## Requrements
-- import part of [`JavaScriptFunctionalityExpander`](https://github.com/SirFiJay/JavaScriptFunctionalityExpander/lib/DOM) which is performed automatically
+- import part of [`JavaScriptFunctionalityExpander`](https://github.com/SirFiJay/JavaScriptFunctionalityExpander) which is performed automatically
 
 ## How to use
 1) Clone project
